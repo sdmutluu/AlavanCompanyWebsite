@@ -155,7 +155,7 @@ import React from 'react'
 
 const Experience = () => {
   return (
-    <div>Yapım Aşamasında</div>
+    <div></div>
   )
 }
 

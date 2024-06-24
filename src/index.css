@@ -25,6 +25,11 @@
   border-radius: 5px; /* Çubuğun köşelerini yuvarlatma */
 }
 
+body {
+  zoom: 0.88; /* İstediğiniz zoom değerini burada ayarlayabilirsiniz */
+}
+
+
 /* Dikey kaydırma çubuğu dolgu rengi fare üzerine gelindiğinde */
 ::-webkit-scrollbar-thumb:hover {
   background-color: #2a4e70; /* Fare üzerine gelince çubuk rengi */
