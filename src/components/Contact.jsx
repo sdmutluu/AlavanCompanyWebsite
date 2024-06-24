@@ -68,7 +68,7 @@ const Contact = () => {
       );
   };
 
-  const phoneNumber = "0539 707 29 89"; 
+  const phoneNumber = "0542 772 40 02"; 
 
   return (
     <div
